@@ -1,0 +1,7 @@
+- O que é next.js
+- Estrutura de pastas
+- routing
+- \_app.js
+- Data fetching
+- dynamic routes
+- API routes
